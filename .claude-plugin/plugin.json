@@ -1,0 +1,21 @@
+{
+  "name": "walking-stick",
+  "displayName": "拐棍 walking-stick",
+  "version": "1.0.0",
+  "description": "卡住的那一刻，只补断掉的那一环。用大白话讲通，让你当场能用。",
+  "author": {
+    "name": "wuyalao983-collab",
+    "url": "https://github.com/wuyalao983-collab"
+  },
+  "homepage": "https://github.com/wuyalao983-collab/walking-stick",
+  "repository": "https://github.com/wuyalao983-collab/walking-stick",
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "learning",
+    "just-in-time-learning",
+    "chinese",
+    "knowledge",
+    "explain-simply"
+  ]
+}

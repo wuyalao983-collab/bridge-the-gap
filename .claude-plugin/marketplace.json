@@ -1,0 +1,15 @@
+{
+  "name": "walking-stick",
+  "description": "拐棍 —— 卡住的那一刻，只补断掉的那一环。",
+  "owner": {
+    "name": "wuyalao983-collab",
+    "url": "https://github.com/wuyalao983-collab"
+  },
+  "plugins": [
+    {
+      "name": "walking-stick",
+      "source": "./",
+      "description": "卡住的那一刻，只补断掉的那一环。用大白话讲通，让你当场能用。"
+    }
+  ]
+}
