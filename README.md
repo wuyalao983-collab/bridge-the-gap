@@ -87,8 +87,19 @@
 
 ## 安装
 
+**方式一 · 手动放目录（所有支持 Agent Skills 的 AI 通用）**
+
 ```bash
 git clone https://github.com/wuyalao983-collab/walking-stick.git ~/.claude/skills/walking-stick
+```
+
+**方式二 · 插件市场一键装（仅 Claude Code）**
+
+仓库已带 `.claude-plugin` 清单，认插件市场的 AI 直接两条命令：
+
+```bash
+claude plugin marketplace add wuyalao983-collab/walking-stick
+claude plugin install walking-stick@walking-stick
 ```
 
 装完**开一个新对话**才生效（AI 读技能清单是每次开新对话读一次）。
